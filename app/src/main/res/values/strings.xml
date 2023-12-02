@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork4Kotlin</string>
+    <string name="text_whatsapp">Whatsapp</string>
+    <string name="phone_number">Введите номер телефона</string>
+    <string name="arrow"><![CDATA[->]]></string>
+    <string name="whatsapp_image">WhatsApp</string>
+</resources>
